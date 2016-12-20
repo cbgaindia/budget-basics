@@ -1,0 +1,30 @@
+@import url("theme.css");
+
+.wy-nav-side{
+    background: #E9EAE5;
+}
+
+.wy-menu-vertical a {
+    color: #000000;
+}
+
+.wy-menu-vertical a:hover {
+    color: #ffffff;
+}
+
+.wy-nav-content{
+    max-width: 1200px;
+}
+
+.wy-side-nav-search {
+    background-color: #002433;
+}
+
+.wy-side-nav-search img {
+    margin: auto;
+    height: 100%;
+    width: 1000%;
+    background: none;
+    padding: 0px;
+    border-radius: 0%;    
+}
