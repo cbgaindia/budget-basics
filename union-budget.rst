@@ -18,10 +18,12 @@ By convention, the Union Budget for next financial year is presented in Lok Sabh
 Earlier, the union ministries would provide estimates for plan expenditure to finalise budget estimates for the next financial year, only after they had discussed their respective plan schemes with the Central Planning Commission. Then the Planning Commission would depend on the Finance Ministry to arrive at the Gross Budgetary Support. This would be provided in the budget for the next annual plan of the Union government. In principle, the size of each annual plan should be derived from the approved size of the overall Five-Year Plan (12th Five-Year Plan, 2012-13 to 2016-17, in the present instance). However, in practice, the size of the gross budgetary support for an annual plan also depends on the expected availability of funds with the finance ministry for the next financial year.
 
 
-Major Changes from 2017 onwards
--------------------------------
+Major Changes in the Offing
+---------------------------
 
-Beginning from 2017, this entire process will be advanced by a month and the announcement of budget will be at the very first week of February. Further, the Central Planning Commission has been replaced by the NITI Aayog that has no role in budget formulation. Plan and Non-Plan distinction will also be done away with from 2017 Union Budget onwards. This new scheme would be applicable to the Union Budget and at least for some of the state budgets as well.
+Beginning from 2017, this entire process will most likely be advanced by a month and the announcement of the budget will be done on 1st of February.
+
+Further, in 2015 the Central Planning Commission was replaced by the NITI Aayog that has no role in budget formulation. Plan and Non-Plan distinction will also be done away with from 2017 Union Budget onwards. This would be applicable to the Union Budget and at least for some of the state budgets as well.
 
 
 What are the Union Budget Documents? 
@@ -51,39 +53,42 @@ What are the categories of government accounts?
 
 There are three major categories of government accounts:
 
-* Consolidated Fund: The Consolidated Fund under Article 266(1) is what is usually known as the budget. It contains all receipts raised by government, money borrowed and receipts from loans given by government. Expenditures for different purposes (other than certain exceptional items which are met from Contingency Fund and Public Account) are incurred from this account. 
+* Consolidated Fund: The Consolidated Fund under Article 266(1) is what is usually known as the budget. It contains all revenues received by the Government, all receipts from recoveries of loans given by the Government, and the entire amount of new loans raised by the Government. All expenditure of the Government is incurred from this Consolidated Fund. And, the Government cannot take out any amount from this without authorisation from Parliament.
 
-* Contingency Fund: The Contingency Fund is constituted under Article 267 of the Constitution of India and is a Rs 500 crores fund which is at the disposal of the President of India. It is for urgent or unforeseen expenditures which do not require prior legislative approval as opposed to the Consolidated Fund. 
+* Contingency Fund: The Contingency Fund is constituted under Article 267 of the Constitution of India and is a Rs 500 crores fund which is at the disposal of the President of India. It is for urgent or unforeseen expenditures which do not require prior legislative approval as opposed to the Consolidated Fund. However, the government must get such expenditure approved by the Parliament later. Moreover, with approval of the Parliament, the Government needs to withdraw funds from the Consolidated Fund (equivalent to the amount of expenditure from Contingency Fund) and replenish the Contingency Fund.
 
-* Public Account: The Public Account constituted under Article 266(1) of the Constitution is the government’s function as a custodian of the public money. People can deposit money with the government in the form of provident funds, small savings, etc. which does not belong to it and is to be paid back to the depositors on demand.
-
+* Public Account: The Public Account was constituted under Article 266(1) of the Constitution of India. Certain transactions, other than the normal receipts and expenditure of Government which are reported in the Consolidated Fund, enter Government accounts. Government acts more as a banker in case of these other transactions, for instance, the provident funds, small savings collections, other deposits, etc. The money received from such transactions is kept in the Public Account and the related disbursements are also made from there. Funds kept in the Public Account do not belong to Government, and the Government needs to pay back this money at some point of time to the persons and authorities who deposited them. Parliamentary authorisation for payments from the Public Account is, therefore, not required.
 
 What are the components of the Consolidated Fund of India?
 ----------------------------------------------------------
 
-The Consolidated Fund has Revenue and Capital Accounts which differ from each other based on assets generated or liabilities incurred. There are expenditures and receipts under both accounts.
+The Consolidated Fund has Revenue and Capital Account which differ from each other based on assets generated or liabilities incurred. There are expenditures and receipts under both accounts.
 
 **Revenue Account**
 
-Any expenditure that doesn’t create assets or reduce liabilities is treated as Revenue Expenditure.  e.g.: salaries, subsidies and interest payments, etc.
-Proceeds from taxes, non-tax sources and other receipts are recorded as Revenue Receipts. e.g.: income tax, corporation tax, union excise duty, etc.
+This consists of Revenue Expenditure and Revenue Receipts. Any expenditure that doesn’t create assets or reduce liabilities is treated as **Revenue Expenditure**. Examples include salaries, subsidies, interest payments, etc.
+
+Proceeds from taxes, non-tax sources of revenue and other receipts are recorded as **Revenue Receipts**. Income tax, corporation tax, Union excise duty, are some of the sources of tax-revenue, while interest receipts, fees/ user charges, and dividend & profits from government enterprises are some examples of non-tax revenue.
 
 **Capital Account**
 
-Any expenditure incurred for the purpose of creation of permanent assets or reduction of recurring liabilities is recorded as Capital Expenditure. Capital Receipts include receipts of a capital nature to be applied so as to set off capital expenditure. It results in an increase in liabilities or a reduction in assets.
+Capital Expenditure and Capital Receipts constitute the budget on the Capital Account. Any expenditure incurred for the purpose of creation of assets or reduction of liabilities is recorded as **Capital Expenditure**. 
 
-**Contingency Fund**
+**Capital Receipts** are those that lead to a reduction in the assets or an increase in the liabilities of the government. Examples include recoveries of loans, earnings from disinvestment and debt. 
 
-Under Article 267(2) of the Constitution, in addition to the Consolidated Fund, there is a Contingency Fund
+In addition to these, expenditure is also classified into the following categories:
 
-**Public Account**
+**Plan and Non-Plan Expenditure**
 
-Public Account consists of Deposits and Advances in which the government is merely a custodian of the account and has a liability to repay.
+**Plan Expenditure** is meant for financing the schemes and programmes especially framed under the given Plan (the Five Year Plan) or the unfinished tasks of the previous Plans. 
+
+Once a programme or scheme pursued under a specific Plan completes its duration, the maintenance cost and future running expenditures on the assets created or staff recruited are not regarded as Plan Expenditure. 
+
+Any expenditure of the government that does not fall under the Plan Expenditure is **Non-Plan Expenditure**.
 
 **Voted and Charged Expenditure**
 
-Expenditure that has to be authorised by the legislature/parliament is Voted Expenditure while that which is automatically debited from the Consolidated Fund of India is called Charged Expenditure. E.g.: interest payments, salaries of the President, Lok Sabha speaker, etc. cannot be voted upon in the Parliament.
-
+Expenditure that has to be authorised by the legislature/parliament is **Voted Expenditure** while that which is automatically debited from the Consolidated Fund of India is called **Charged Expenditure**. E.g.: interest payments, salaries of the President, Lok Sabha speaker, etc. cannot be voted upon in the Parliament.
 
 Money Flow
 ----------
@@ -95,49 +100,55 @@ Money Flow
 Where Does the Money Come From?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-If the Gross Tax Collection expected by the Centre is Rs. 100, around Rs. 30 is from Corporation Tax, Rs. 21 from Income Tax, Rs. 14 from Customs, Rs. 19.5 from Union Excise Duties and Rs. 14 from Service Tax.
+The different sources from which the government can raise resources can be broadly classified into the following: 
+* Tax Revenue
+* Non-Tax Revenue
+* Disinvestments/Borrowings
+* Grants-in-Aid
+
+Tax revenue is considered one of the most important sources of revenue for the government. 
+
+For example, in the financial year 2016-17 if the Gross Tax Collection expected by the Centre is Rs. 100, around Rs. 30 is from Corporation Tax, Rs. 21 from Income Tax, Rs. 14 from Customs, Rs. 19.5 from Union Excise Duties and Rs. 14 from Service Tax.
 
 .. image:: images/ub_receipt_budget.png
 
-Upto 52% of the Union Government’s receipts are from direct tax sources like Corporation and Income Taxes while 48 percent are from indirect sources like Customs, Union Excise Duties and Service Taxes. 
+Upto 52% of the Union Government’s receipts are from direct tax sources such as Corporation Tax and Income Tax while 48 percent are from indirect sources like Custom Duties, Union Excise Duties and Service Tax. 
 
-If the States’ receipts are also included, almost two-thirds of Combined Receipts of Centre and States are from Indirect Taxes. Direct Taxes are those for which the burden of tax falls on the entity that is being taxed while Indirect Taxes are those for which tax-burden can be shifted or passed on to others, at least partially,  later through business transactions of goods/services. Examples of some Direct Taxes are Corporation Tax, Income Tax, etc. while Indirect Taxes include Customs Duties, Excise Duties, Service Tax and Sales Tax/Value Added Tax (VAT). Of all these taxes, Union Government has the constitutional responsibility to collect Corporation Tax, Income Tax, Customs Duties and Service Taxes and Union Excise Duties.
+Direct Taxes are those for which the burden of tax falls on the entity that is being taxed while Indirect Taxes are those for which tax-burden can be shifted or passed on to others later through business transactions of goods/services. Some examples of Direct Taxes are Corporation Tax, Income Tax, etc., while Indirect Taxes include Customs Duties, Excise Duties, Service Tax, etc.. Of all these taxes, the Union Government has the constitutional responsibility to collect Corporation Tax, Income Tax, Customs Duties, Service Tax and Union Excise Duties.
 
 **Corporation Tax:** 
 Levied on incomes of registered companies/corporations in the territory of India (whether national or multinational/foreign). National companies are taxed on the basis of their aggregate income, irrespective of its source and origin whereas foreign companies are taxed only on the income that arises from operations carried out in India.
 
 **Income Tax:** 
-Levied on the income of individuals, firms, etc. other than Companies under the Income Tax Act, 1961.
-Union Excise Duty: A production tax imposed on goods manufactured in India for domestic consumption by the Union Government under the Central Excise Act, 1944 and the Central Excise Tariff Act. From 1999 onwards, it has been called the Central Value Added Tax (CENVAT). Certain goods like alcohol and related products as well as narcotics substances are included under the State Excise Duty and collected by all states.
+This is a tax on the income of individuals, firms, etc. other than Companies, under the Income Tax Act, 1961.
+
+**Union Excise Duty:** 
+A production tax imposed on goods manufactured in India for domestic consumption by the Union Government under the Central Excise Act, 1944 and the Central Excise Tariff Act. From 1999 onwards, it has been called the Central Value Added Tax (CENVAT). Certain goods like alcohol and related products as well as narcotics substances are included under the State Excise Duty and collected by all states.
 
 **Service Tax:**
 Levied on services provided by an entity and the responsibility of payment of tax lies on the service provider.
-The new proposed Goods and Service Taxes (GST) includes both Excise Duties and Service Taxes.
-
+The Goods and Service Taxes (GST) to be implemented in 2017 includes both Excise Duties and Service Taxes.
 
 Where Does the Money Go?
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-If the Union Budget has a total allocation of Rs. 100, this is how the government intends to spend that money.
+If the Union Budget has a total allocation of Rs. 100 in the financial year 2016-17, this is how the government intends to spend that money.
 
 .. image:: images/ub_exp_budget.png
 
 
-**Interest Payments** include those on internal debt like Treasury Bills, Market Loans, securities issued against small savings collection, state provident funds and insurance and pension funds.
+**Interest Payments** include interest paid on internal debt like Treasury Bills, Market Loans, securities issued against small savings collection, state provident funds and insurance and pension funds.
 
-**Defence expenditure** includes those on various aspects of the Army, Navy and Air Force in terms of miscellaneous services like Rashtriya Rifles, J&K Light Infantry, Coast Guard and Research and Development; revenue expenditures like pay and allowances, transportation, stores; and capital outlay on construction, air craft and aero engine, vehicles, equipment, naval fleet and dockyards, etc. This does not include defence pension which is calculated separately under the allocation for pension.
+**Defence** includes expenditure incurred on various aspects of the Army, Navy and Air Force in terms of miscellaneous services like Rashtriya Rifles, J&K Light Infantry, Coast Guard and Research and Development; revenue expenditures like pay and allowances, transportation, stores; and capital outlay on construction, air craft and aero engine, vehicles, equipment, naval fleet and dockyards, etc. This does not include defence pension which is calculated separately under the allocation for pension.
 
-**Pension** consists of those other than as part of welfare and social security like those on widows, mothers, aged and persons with disabilities. It includes the expenditure on central government employees in various departments.
+**Pension** consist of the provision for pensions and other retirement benefits of retired personnel of Defence Services and other civil departments including pensionary benefits of the employees of the Department of Telecommunications together with employees absorbed in Bharat Sanchar Nigam Ltd., and for medical treatment of CGHS pensioners. This does not include expenditure on social security measures for widows, mothers, aged and persons with disabilities. 
 
-**Subsidies** consist of those on food, fertiliser, petrol and petroleum products, and interest subsidies.
+**Subsidies** include subsidies on food, fertiliser, petrol and petroleum products, interest subsidies, etc.
 
-**Finance Commission Recommended Grants-in-Aid** to States consist of 42% of the total of taxes like corporation tax, income tax, customs duty, union excise duty, service tax, etc. which are collected by the Centre which is constitutionally mandated by the Finance Commission to be shared with the states. The total fiscal space available with the Union Government is net of this amount.
-
-The rest of the money is allocated between all the Union Ministries.
+**Grants-in-Aid** are provided from a higher tier of government to a lower tier. In this case it is provided by the union government to the states. It is different from loans since these are provided without the expectations of any repayment later on.
 
 
 Fiscal Deficit
 --------------
 
-Fiscal Deficit refers to a gap in government’s budget; a gap that arises in any financial year when the government’s total expenditure exceeds its total income in that year and consequently it borrows money to cover that gap. Unlike the budgets of individuals or households (where income determines our expenditure), in the government budget – it’s the expenditure commitments that should determine its income (i.e. tax revenue and other receipts, which don’t have to be repaid) and the amount to be borrowed (if needed). It is covered by borrowing or taking debt. However, the total borrowing or debt taken by the government in a financial year could be more than the level of the Fiscal Deficit; this is because some of the financial liabilities (or amounts that have to be repaid) under government designed mechanisms like National Small Savings Fund (NSSF) and Market Stabilization Scheme (MSS) do not come under Fiscal Deficit (as those mechanisms operate outside the government budget) but those are considered to be the government’s liabilities or debt. The Central and State Governments in India both finance their deficits mostly through borrowing from domestic sources. 
-
+Fiscal Deficit refers to a gap in government’s budget that arises in any financial year when the government’s total expenditure exceeds its total receipts in that year and consequently it borrows money to cover that gap. The additional resources raised by the government in a financial year, in order to meet this gap, is the fiscal deficit for that year. Unlike budgets of individuals or households (where income determines expenditure), in the government’s budget it’s the expenditure commitments that should determine its income (i.e. tax revenue and other receipts, which don’t have to be repaid) and the amount to be borrowed (if needed). It is covered by borrowing. However, the total borrowing or debt taken by the government in a financial year could be more than the level of the Fiscal Deficit; this is because some of the financial liabilities (or amounts that have to be repaid) under government designed mechanisms like National Small Savings Fund (NSSF) and Market Stabilization Scheme (MSS) do not come under Fiscal Deficit (as those mechanisms operate outside the government budget) but those are considered to be the government’s liabilities or debt. The Central and State Governments in India both finance their deficits mostly through borrowing from domestic sources. 
