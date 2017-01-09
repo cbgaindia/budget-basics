@@ -1,7 +1,7 @@
 Introduction
 ============
 
-Multiple tiers of government are set up in geographically vast countries with heterogeneous populations with the belief that they enable efficiency and equity for the provision of public goods through co-operation, co-ordination and competition between central and sub-national governments through a pre-defined set of rules, preferably through a constitutional arrangement. In India there are three tiers of government: Union, State and Local. Local Bodies are both rural and urban. Urban Local Bodies (ULBs) are in turn of three types namely Municipal Corporations, Municipal Councils and Nagar Panchayats & suburban government bodies. 
+Multiple tiers of government are set up in geographically vast countries with heterogeneous populations with the belief that they enable more efficient and equitable provisioning of public goods through co-operation, co-ordination and competition between central and sub-national governments through a pre-defined set of rules. In Indiathere are three tiers of government: Union, State and Local. Local Bodies are both rural and urban. Urban Local Bodies (ULBs) are of three types namely Municipal Corporations, Municipal Councils and Nagar Panchayats and suburban government bodies.
 
 Each of these tiers has constitutionally mandated responsibilities to raise resources and spend them. An annual statement of receipts and expenditure are presented by all tiers of government which together constitute government budget in India.
 
