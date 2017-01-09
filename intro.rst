@@ -8,19 +8,18 @@ Each of these tiers has constitutionally mandated responsibilities to raise reso
 How is a Household Budget different from a Government Budget?
 -------------------------------------------------------------
 
-* A household's income is ascertained before spending occurs. A government, on the other hand, estimates its expenditure requirements before it seeks mobilization of resources to meet the same.
+* A household's income is ascertained before spending occurs. A government, on the other hand, estimates its expenditure requirements before mobilises resources to meet its expenditure requirements.
 
-* The size of a government budget is dependent on a number of complex factors like requirements of the society and government priorities. For a household, the decision on the size of the budget is based on the estimates of the members.
+* Unlike in the case of household, a government’s revenues do not have to match its expenditures. It has a variety of methods for managing the gap between spending and revenue; also it needs to be responsible for ensuring that deficits are sustainable.
 
-* Sources of borrowing are quite different when it comes to the government and the private households. Private households have limited capacity to meet unexpected and unforeseen expenditures and have limited sources of borrowing funds. The government, on its part, can borrow from various sources to meet the gap between its spending and its non-debt revenue.
+* The ways in which as well as the scope for raising money is very different for a government from that of a private household. Private households have limited capacity to meet unexpected and unforeseen expenditures and have limited sources of borrowing funds. The government, on its part, can borrow from various sources and can also print money or carry out disinvestment of public sector enterprises in order to meet the gap between its spending and expenditure.
 
-* Managing and sustainability of deficits.
+* The very motive behind government budgeting is different from that of budgeting by private households.
 
-* The motive for budgeting is also different for the private household and the government.
+Most budget documents like Annual Financial Statement, Detailed Demand for Grants, etc. contain information for 3 financial years. For instance, the Union Budget 2017-18 will contain figures for 2015-16 Actuals, 2016-17 Revised Estimates and 2017-18 Budget Estimates. 
 
-The budget documents like Annual Financial Statement, Detailed Demand for Grants etc. contain information for 3 years. For instance, Union Budget 2017-18 will contain figures for 2015-16 Actuals, 2016-17 Budget Estimates, 2016-17 Revised Estimates and 2017-18 Budget Estimates.
-Budget Estimates or BE refers to the allocation of expenditure over the next financial year (March 1, 2017 – April 30, 2018). 
+**Budget Estimates (BE)** refer to the amounts of expenditure ‘projected’ by the government for the ongoing / approaching financial year  (April 1, 2017 – March 31, 2018). 
 
-Revised Estimates or RE refers to the actual expenditure of the current financial year (2016-17) for the first 6-7 months and the estimated expenditure for the remaining months in the year.
+After the initial projection of expenditure for an ensuing financial year, the government revises those projections after six months of the concerned financial year are over. These ‘revised projections’ are known as **Revised Estimates (RE)**.
 
-The term ‘Actuals’ refers to the unaudited final expenditure for the previous financial year.
+**Actuals:** Actuals refer to the amounts actually spent by the government in a previous financial year, which have been audited and certified by the office of C&AG of India. It usually takes the office of C&AG around eight months to audit and certify the accounts / actual expenditures reported by the government after the financial year ends.
