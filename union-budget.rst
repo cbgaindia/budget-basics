@@ -4,7 +4,7 @@ Union Budget
 .. image:: images/union_budget_structure.png
     :width: 90%
 
-How does an average Budget Cycle look like?
+What does an Average Budget Cycle Look Like?
 -------------------------------------------
 
 .. image:: images/budget_cycle.png
@@ -48,7 +48,7 @@ Article 112 of the Constitution mandates the Union Government to lay before both
 * Implementation of Budget Announcements 
 
 
-What are the categories of government accounts?
+What are the Categories of Government Accounts?
 -----------------------------------------------
 
 There are three major categories of government accounts:
@@ -59,7 +59,7 @@ There are three major categories of government accounts:
 
 * Public Account: The Public Account was constituted under Article 266(1) of the Constitution of India. Certain transactions, other than the normal receipts and expenditure of Government which are reported in the Consolidated Fund, enter Government accounts. Government acts more as a banker in case of these other transactions, for instance, the provident funds, small savings collections, other deposits, etc. The money received from such transactions is kept in the Public Account and the related disbursements are also made from there. Funds kept in the Public Account do not belong to the Government, and the Government needs to pay back this money at some point of time to the persons and authorities who deposited them. Parliamentary authorisation for payments from the Public Account is, therefore, not required.
 
-What are the components of the Consolidated Fund of India?
+What are the Components of the Consolidated Fund of India?
 ----------------------------------------------------------
 
 The Consolidated Fund has Revenue and Capital Account which differ from each other based on assets generated or liabilities incurred. There are expenditures and receipts under both accounts.
@@ -76,7 +76,10 @@ Capital Expenditure and Capital Receipts constitute the budget on the Capital Ac
 
 **Capital Receipts** are those that lead to a reduction in the assets or an increase in the liabilities of the government. Examples include recoveries of loans, earnings from disinvestment and debt. 
 
-In addition to these, expenditure is also classified into the following categories:
+Other Ways of Classifying Expenditure
+----------------------------------------------------------
+
+In addition to the categories mentioned above, expenditure is also classified into the following categories:
 
 **Plan and Non-Plan Expenditure**
 
@@ -112,7 +115,7 @@ For example, in the financial year 2016-17 if the Gross Tax Collection expected 
 
 .. image:: images/ub_receipt_budget.png
 
-Upto 52% of the Union Government’s receipts are from direct tax sources such as Corporation Tax and Income Tax while 48 percent are from indirect sources like Custom Duties, Union Excise Duties and Service Tax. 
+Upto 52 % of the Union Government’s receipts are from direct tax sources such as Corporation Tax and Income Tax while 48 percent are from indirect sources like Custom Duties, Union Excise Duties and Service Tax. 
 
 Direct Taxes are those for which the burden of tax falls on the entity that is being taxed while Indirect Taxes are those for which tax-burden can be shifted or passed on to others later through business transactions of goods/services. Some examples of Direct Taxes are Corporation Tax, Income Tax, etc., while Indirect Taxes include Customs Duties, Excise Duties, Service Tax, etc.. Of all these taxes, the Union Government has the constitutional responsibility to collect Corporation Tax, Income Tax, Customs Duties, Service Tax and Union Excise Duties.
 
