@@ -115,6 +115,8 @@ For example, in the financial year 2016-17 if the Gross Tax Collection expected 
 
 .. image:: images/ub_receipt_budget.png
 
+*Source: Union Budget Documents, 2016-17*
+
 Upto 52 % of the Union Government’s receipts are from direct tax sources such as Corporation Tax and Income Tax while 48 percent are from indirect sources like Custom Duties, Union Excise Duties and Service Tax. 
 
 Direct Taxes are those for which the burden of tax falls on the entity that is being taxed while Indirect Taxes are those for which tax-burden can be shifted or passed on to others later through business transactions of goods/services. Some examples of Direct Taxes are Corporation Tax, Income Tax, etc., while Indirect Taxes include Customs Duties, Excise Duties, Service Tax, etc.. Of all these taxes, the Union Government has the constitutional responsibility to collect Corporation Tax, Income Tax, Customs Duties, Service Tax and Union Excise Duties.
@@ -139,6 +141,7 @@ If the Union Budget has a total allocation of Rs. 100 in the financial year 2016
 
 .. image:: images/ub_exp_budget.png
 
+*Source: Union Budget Documents, 2016-17*
 
 **Interest Payments** include interest paid on internal debt like Treasury Bills, Market Loans, securities issued against small savings collection, state provident funds and insurance and pension funds.
 
