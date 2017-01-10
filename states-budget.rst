@@ -61,7 +61,8 @@ The major sources of Kerala’s tax revenue apart from the Finance Commission-ma
 
 .. image:: images/kerela_chart4.png
 
-*Source: Kerala Budget, 2016-17, Others include taxes on goods and passengers, taxes and duties on electricity & Other Taxes and Duties.*
+*Source: Kerala Budget, 2016-17, 
+Note: Others include taxes on goods and passengers, taxes and duties on electricity & Other Taxes and Duties.*
 
 **Sales Tax:** It is generally charged at the point of purchase or exchange of certain taxable goods, charged as a percentage of the total value of the product. In India, Sales Tax used to be levied under the authority of both the Central Legislation (Central Sales Tax) and State Governments’ Legislations (Sales Tax) before the introduction of VAT. 
 
@@ -138,9 +139,9 @@ Revenue Expenditure consists of those expenditures which are recurring in nature
 
 .. image:: images/kerela_chart8.png
 
-*Source: Kerala Budget, 2016-17. Others include ‘others’ in table and Wages, Office Expenses, Travel Allowances, Motor Vehicles, Rent, Petroleum, Oil & Lubricant, Maintenance, Materials & Supplies, Machinery & Equipment, Minor Works, Major works, Investment)*
+*Source: Kerala Budget, 2016-17. Others include ‘others’ in table and Wages, Office Expenses, Travel Allowances, Motor Vehicles, Rent, Petroleum, Oil & Lubricant, Maintenance, Materials & Supplies, Machinery & Equipment, Minor Works, Major works, Investment*
 
-Up to 75% of expenditure of Kerala goes into Salaries, Interest Payments and Pensions, which are recurring in nature and hence categorised under ‘Revenue Expenditure’.
+Up to 75 % of expenditure of Kerala goes into Salaries, Interest Payments and Pensions, which are recurring in nature and hence categorised under ‘Revenue Expenditure’.
 
 Capital Expenditure
 -------------------
@@ -151,4 +152,4 @@ The following pie-chart depicts the different heads of capital expenditure for K
 
 *Source: Kerala Budget, 2016-17*
 
-56% of Capital Expenditure of Kerala goes into discharging internal debt and around 32 % is spent as part of the Capital Outlay on Plan spending.
+56 % of Capital Expenditure of Kerala goes into discharging internal debt and around 32 % is spent as part of the Capital Outlay on Plan spending.
